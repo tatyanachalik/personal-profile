@@ -1,2 +1,2 @@
-# techdegree-project-1
- This is Techdegree Project 1.
+# personal-profile
+ Created a personal profile.
